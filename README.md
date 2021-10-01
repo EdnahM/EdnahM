@@ -17,6 +17,8 @@ thinking I’m looking for help in DevOps Career Path
 
 :mailbox: How to reach me: [Edna Mugoh](https://www.linkedin.com/in/edna-mugoh-2021a0161/)
 
-:toolbox: 
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EdnahM&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+
+
 ![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdnahM&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
