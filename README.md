@@ -6,7 +6,7 @@ Hi there I am Edna :wave:
 
 Meet Edna a DataScientist from Nairobi, Kenya
 
-:telescope: I am currently working on building a datawarehouse integrating data aspect and enhance ease in analysis and research functionalities
+:telescope: I am currently working on building a datawarehouse integrating data aspect and enhance ease in analysis and research functionalities.Applying tech to help mums out there.
 
 :seedling: I’m currently taking new path in Machine Learning and Data Engineering
 
