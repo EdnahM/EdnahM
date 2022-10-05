@@ -8,12 +8,12 @@ Meet Edna a DataScientist from Nairobi, Kenya
 
 :telescope: I am currently working on building a datawarehouse integrating data aspect and enhance ease in analysis and research functionalities.Applying tech to help mums out there.
 
-:seedling: I’m currently taking new path in Machine Learning and Data Engineering
+:seedling: I’m currently  in Machine Learning and Data Engineering Path, Exploration of How to use Big data in a more simpler and comfortable way.
 
 :dancers: I’m looking to collaborate In open-source projects that improves the well being of people
 thinking I’m looking for help in DevOps Career Path
 
-:speech_balloon: Ask me about Python/Flask/Docker/Data Science and Machine Learning
+:speech_balloon: Ask me about Python/Flask/Django/React/Flutter/Docker/Hadoop/Data Science and Machine Learning
 
 :mailbox: How to reach me: [Edna Mugoh](https://www.linkedin.com/in/edna-mugoh-2021a0161/)
 
