@@ -11,7 +11,7 @@ Meet Edna a DataScientist from Nairobi, Kenya
 :seedling: I’m currently  in Machine Learning , Data Engineering Path, Big data.
 
 :dancers: I’m looking foward to collaborate In open-source projects that improves the well being of people
-thinking I’m looking for help in DevOps Career Path
+:thinking: I’m looking for help in DevOps Career Path
 
 :speech_balloon: Ask me about Python/Flask/Django/React/Flutter/Docker/Hadoop/Data Science and Machine Learning
 
