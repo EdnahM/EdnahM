@@ -4,7 +4,7 @@ Hi there I am Edna :wave:
 <a target="blank" href="https://profile-counter.glitch.me/EdnahM/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/EdnahM/count.svg" /></a>
 
 
-Meet Edna a DataScientist from Nairobi, Kenya
+Meet Edna a DataScientist from  Kenya
 
 :telescope: I am currently working on building a datawarehouse integrating data aspect and enhance ease in analysis and research functionalities.Applying tech to help mums out there.
 
