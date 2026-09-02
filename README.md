@@ -4,7 +4,7 @@
 
 ### Machine Learning Engineer • Maternal Health AI • Bilingual NLP Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+for+African+Healthcare;Machine+Learning+Engineer;Bilingual+NLP+Researcher;Kiswahili-English+LLM+Adaptation;Always+Learning+Always+Shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+for+African+Healthcare;Machine+Learning+Engineer;Bilingual+NLP+Researcher;CNNs+%2B+GeoAI+%2B+Kiswahili-English+LLMs;Always+Learning+Always+Shipping" />
 
 <br>
 
@@ -24,14 +24,18 @@ Location: Nairobi, Kenya
 Focus Areas:
   - Maternal Health AI (PROMPTS & UlizaMama platforms)
   - Bilingual NLP (Kiswahili-English)
+  - CNNs & Medical Imaging
+  - GeoAI / Geospatial Machine Learning
   - Pipeline Safety & Model Evaluation
   - Parameter-Efficient Fine-Tuning (LoRA, Bayesian Model Merging)
-  - Quantitative Research (WorldQuant Brain)
 
 Current Projects:
-  - Kuphila AI — cervical cancer screening (BiomedCLIP + Flutter)
-  - Sauti Yetu — Swahili-English code-switched health triage
-  -  . Research — bilingual LLMs for maternal health decision support
+  - Kuphila AI - cervical cancer screening (BiomedCLIP + Flutter)
+  - Sauti Yetu - Swahili-English code-switched health triage
+  - Research - bilingual LLMs for maternal health decision support
+
+Exploring:
+  - Blockchain for verifiable/decentralized health records
 
 Mission:
   Applying AI to close healthcare gaps for mothers across Kenya, Ghana, Nigeria & Tanzania.
@@ -42,8 +46,10 @@ Mission:
 ## 🚀 Current Focus
 
 - 🏥 Building and evaluating LLM-powered maternal health tools deployed across four African countries
-- 🎓  . Computer Science candidate, Dedan Kimathi University of Technology — researching bilingual LLM adaptation for maternal health
+- 🧠 CNN-based medical imaging models and GeoAI for spatial health data
+- 📚 Research on bilingual LLM adaptation for maternal health decision support
 - 📊 Quantitative alpha research with WorldQuant Brain (ranked 1st in Kenya, 2024 Championship)
+- ⛓️ Exploring blockchain for health-data integrity and verification
 - 🤝 Mentoring women entering ML and career-changers into tech
 
 ---
@@ -55,29 +61,29 @@ Mission:
 <img src="https://skillicons.dev/icons?i=python" width="55">
 <br><b>Python</b>
 </td><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=r" width="55">
+<br><b>R</b>
+</td><td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=pytorch" width="55">
 <br><b>PyTorch</b>
 </td><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55">
+<br><b>TensorFlow</b>
+</td></tr><tr><td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=flask" width="55">
 <br><b>Flask</b>
 </td><td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=django" width="55">
 <br><b>Django</b>
-</td></tr><tr><td align="center" width="25%">
+</td><td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=react" width="55">
 <br><b>React</b>
 </td><td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=flutter" width="55">
 <br><b>Flutter</b>
-</td><td align="center" width="25%">
+</td></tr><tr><td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=docker" width="55">
 <br><b>Docker</b>
-</td><td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=hadoop" width="55">
-<br><b>Hadoop</b>
-</td></tr><tr><td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=git" width="55">
-<br><b>Git</b>
 </td><td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=postgres" width="55">
 <br><b>PostgreSQL</b>
@@ -85,8 +91,8 @@ Mission:
 <img src="https://skillicons.dev/icons?i=aws" width="55">
 <br><b>AWS</b>
 </td><td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=grafana" width="55">
-<br><b>Observability</b>
+<img src="https://skillicons.dev/icons?i=solidity" width="55">
+<br><b>Solidity</b>
 </td></tr>
 </table>
 
@@ -101,22 +107,45 @@ Mission:
 
 ---
 
-## 🚀 Selected Work
+## 🌟 Highlighted Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### ✦ Kuphila AI
-Cervical cancer screening model (BiomedCLIP-based pap smear classifier) with a Flutter application front-end, deployed via Gradio on HuggingFace Spaces.
+### ✦ PROMPTS & UlizaMama
+Maternal health platforms serving mothers across Kenya, Ghana, Nigeria and Tanzania - pipeline safety, model evaluation, LLM auditing, and provider routing.
 
-<sub>AI · Medical Imaging · Flutter · Healthcare</sub>
+<sub>LLMs · RAG · Pipeline Safety · Scale</sub>
+
+</td>
+<td width="50%">
+  
+### ✦ Bilingual LLM Research
+Research applying parameter-efficient fine-tuning (LoRA, Bayesian Model Merging) to adapt LLMs for Kiswahili-English maternal health decision support.
+
+<sub>NLP · Fine-Tuning · Low-Resource Languages</sub>
+
+</td>
+</tr>
+</table>
+
+## 🚀 Other Work
+
+<table>
+<tr>
+<td width="50%">
+
+### ✦ Kuphila AI 🏥
+CNN-based cervical cancer screening (BiomedCLIP pap smear classifier) with a Flutter front-end, deployed via Gradio on HuggingFace Spaces.
+
+<sub>CNNs · Medical Imaging · Flutter · Healthcare</sub>
 
 </td>
 <td width="50%">
 
-### ✦ Sauti Yetu
-Swahili-English code-switched healthcare triage tool — 2nd place, Intron Voice AI Agentic Challenge, Deep Learning Indaba 2026.
+### ✦ Sauti Yetu 🏆
+Swahili-English code-switched healthcare triage tool - **2nd place**, Intron Voice AI Agentic Challenge, Deep Learning Indaba 2026.
 
 <sub>Voice AI · NLP · Agentic Systems · Healthcare</sub>
 
@@ -126,18 +155,18 @@ Swahili-English code-switched healthcare triage tool — 2nd place, Intron Voice
 <tr>
 <td width="50%">
 
-### ✦ PROMPTS & UlizaMama
-Maternal health platforms serving mothers across Kenya, Ghana, Nigeria and Tanzania — pipeline safety, model evaluation, LLM auditing, and provider routing.
+### ✦ GeoAI Explorations
+Applying geospatial ML to health-access and coverage questions across African maternal health contexts.
 
-<sub>LLMs · RAG · Pipeline Safety · Scale</sub>
+<sub>GeoAI · Spatial ML · R · Python</sub>
 
 </td>
 <td width="50%">
 
-### ✦ Bilingual LLM Research
- . research applying parameter-efficient fine-tuning (LoRA, Bayesian Model Merging) to adapt LLMs for Kiswahili-English maternal health decision support.
+### ✦ Blockchain for Health
+Early-stage exploration of blockchain approaches for verifiable, tamper-evident health records.
 
-<sub>NLP · Fine-Tuning · Low-Resource Languages</sub>
+<sub>Blockchain · Solidity · Data Integrity</sub>
 
 </td>
 </tr>
@@ -151,9 +180,11 @@ Maternal health platforms serving mothers across Kenya, Ghana, Nigeria and Tanza
 Machine Learning & LLMs   █████████░  90%
 Healthcare AI Deployment  █████████░  90%
 Bilingual/Low-Resource NLP████████░░  80%
+CNNs & Medical Imaging    ████████░░  80%
 Quant Research            ███████░░░  70%
+GeoAI / Spatial ML        ██████░░░░  60%
 Data Engineering          ██████░░░░  60%
-DevOps / Observability    █████░░░░░  50%
+Blockchain                ████░░░░░░  40%
 ```
 
 ---
