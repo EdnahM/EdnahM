@@ -2,7 +2,7 @@
 
 # Edna Mugoh
 
-### Machine Learning Engineer • Maternal Health AI • Bilingual NLP Researcher
+### Machine Learning Engineer • Maternal Health AI • Bilingual NLP Researcher  •   Computer Vision Researcher
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+for+African+Healthcare;Machine+Learning+Engineer;Bilingual+NLP+Researcher;CNNs+%2B+GeoAI+%2B+Kiswahili-English+LLMs;Always+Learning+Always+Shipping" />
 
